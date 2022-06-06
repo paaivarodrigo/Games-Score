@@ -20,7 +20,7 @@ Based on the analysis of the "Year by Total Number of Games" graph, I decided to
 However, there was a doubt on how to analyze: whether by the average or median of user and critic ratings. To check which one would be better, I made the boxplot of the user reviews and I noticed that in the period that it would be analyzed (2011-2018) there were many outliers, and the outliers significantly affect the average.
 
 <div align="center">
-![Year By User Score](https://user-images.githubusercontent.com/106841477/172184064-04c49a0b-4c7c-498e-8ba1-3901511a748a.png)
+<img src="https://user-images.githubusercontent.com/106841477/172184064-04c49a0b-4c7c-498e-8ba1-3901511a748a.png"/>
 </div>
 
 Therefore, using the median is a better choice in this case.
