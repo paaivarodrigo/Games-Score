@@ -8,4 +8,4 @@
 - The database is very small compared to the amount of existing games;
 - There is a lot of user and critic ratings missing for many games;
 - Many of the reviews from users and critics came from the same review site, so it may be biased.
-For a business related analysis, it is best to look for another database or collect more data, but to answer my friends, it might be enough to end the discussion.
+For a business related analysis, it is best to look for another database or collect more data, but to answer my friends, it might be enough to end the discussion. The code used is available along with this repository.
